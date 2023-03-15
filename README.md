@@ -1,5 +1,6 @@
 <h1>Crud em React
 <h4> A aplicação foi construída com o intuito de colocar em prática os conhecimentos adquiridos em relação a CRUD. Para estilização foi utilizado a biblioteca Chakra UI.
+<br>Link para acesso: https://vercel.com/gilsonfsdev/sistema-de-cadastro-crud
 <br>
 <hr>
 <h3>Layout do sistema
